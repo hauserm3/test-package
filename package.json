@@ -1,0 +1,23 @@
+{
+    "name": "test-pakage",
+    "version": "1.0.0",
+    "description": "NPM test pakage",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mike-3/test-pakage.git"
+    },
+    "keywords": [
+        "test",
+        "package"
+    ],
+    "author": "mike",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mike-3/test-pakage/issues"
+    },
+    "homepage": "https://github.com/mike-3/test-pakage#readme"
+}
