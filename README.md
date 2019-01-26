@@ -5,7 +5,7 @@ Test NPM package.
 ## Installation
 
 ```sh
-$ npm i test-package
+$ npm i @mike-3/test-package
 ```
 
 ## Using
@@ -13,7 +13,7 @@ $ npm i test-package
 In Node.js:
 
 ```sh
-const TestPackage = require('test-pakage');
+const TestPackage = require('@mike-3/test-package');
 
 TestPackage.hello();
 TestPackage.proof();

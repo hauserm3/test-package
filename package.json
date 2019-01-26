@@ -1,5 +1,5 @@
 {
-    "name": "test-package",
+    "name": "@mike-3/test-package",
     "version": "1.0.0",
     "description": "NPM test pakage",
     "main": "index.js",
